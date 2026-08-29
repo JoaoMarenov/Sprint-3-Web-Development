@@ -1,0 +1,55 @@
+:root {
+  --cor-fundo-escuro: #121417;
+  --cor-fundo-grafite: #1b1e23;
+  --cor-fundo-cartao: #22262c;
+  --cor-amarelo-destaque: #f0b90b;
+  --cor-azul-marinho: #1c2a45;
+  --cor-laranja-apoio: #ff8a4c;
+  --cor-texto-claro: #f2f2f2;
+  --cor-texto-cinza: #a9a9a9;
+  --fonte-titulo: "Poppins", sans-serif;
+  --fonte-texto: "Inter", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  overflow-x: hidden;
+  background-color: var(--cor-fundo-escuro);
+  color: var(--cor-texto-claro);
+  font-family: var(--fonte-texto);
+  line-height: 1.6;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button {
+  border: 0;
+}
+
+a {
+  color: var(--cor-texto-claro);
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}

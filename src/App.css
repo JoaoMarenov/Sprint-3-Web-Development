@@ -124,7 +124,7 @@ p {
   display: flex;
   min-height: 80vh;
   align-items: center;
-  background-image: linear-gradient(rgba(10, 11, 13, 0.78), rgba(10, 11, 13, 0.85)), url("/img/banner-fundo.svg");
+  background-image: linear-gradient(rgba(10, 11, 13, 0.78), rgba(10, 11, 13, 0.85)), url("/img/banner-fundo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
