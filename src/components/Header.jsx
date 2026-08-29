@@ -3,7 +3,7 @@ function Header() {
     <header className="cabecalho">
       <div className="conteiner conteiner-cabecalho">
         <a href="#topo" className="logo">
-          Codex <span>| Jovy</span>
+          Codex <span>| Jovi</span>
         </a>
 
         <nav className="navegacao" aria-label="Navegação principal">

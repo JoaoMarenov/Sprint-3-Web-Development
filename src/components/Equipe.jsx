@@ -4,7 +4,7 @@ const integrantes = [
     imagem: "/img/membro_Thalles.svg",
     funcao: "Liderança de Produto e Integração IA",
     descricao:
-      "Responsável por conectar o modelo de IA de código aberto ao pipeline de câmera da Jovy, cuidando da detecção de cálculos em tempo real.",
+      "Responsável por conectar o modelo de IA de código aberto ao pipeline de câmera da Jovi, cuidando da detecção de cálculos em tempo real.",
   },
   {
     nome: "Murillo",
