@@ -1,28 +1,28 @@
 const integrantes = [
   {
     nome: "Thalles",
-    imagem: "/img/membro_Thalles.svg",
+    imagem: "/img/membro_Thalles.png",
     funcao: "Liderança de Produto e Integração IA",
     descricao:
       "Responsável por conectar o modelo de IA de código aberto ao pipeline de câmera da Jovi, cuidando da detecção de cálculos em tempo real.",
   },
   {
     nome: "Murillo",
-    imagem: "/img/membro_Murillo.svg",
+    imagem: "/img/membro_Murillo.png",
     funcao: "Engenharia Mobile e Performance",
     descricao:
       "Cuida da experiência nativa do Modo Inteligente no app de câmera, garantindo resposta rápida e baixo consumo de bateria.",
   },
   {
     nome: "Isaac",
-    imagem: "/img/membro_Isaac.svg",
+    imagem: "/img/membro_Isaac.png",
     funcao: "Modelagem de IA e Reconhecimento de Cálculos",
     descricao:
       "Treina e ajusta o modelo de IA de código aberto responsável por reconhecer as equações apontadas pela câmera.",
   },
   {
     nome: "João Lucca",
-    imagem: "/img/membro_Joao.svg",
+    imagem: "/img/membro_Joao.png",
     funcao: "Design de Interface e Experiência",
     descricao:
       "Desenha a jornada do pop-up de detecção até a resolução expandida, garantindo clareza para qualquer nível de estudo.",

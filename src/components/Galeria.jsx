@@ -1,20 +1,20 @@
 const telas = [
   {
-    imagem: "/img/camera-modo-inteligente.svg",
+    imagem: "/img/camera-modo-inteligente.png",
     alt: "Interface da câmera no Modo Inteligente com indicadores de foco apontando para uma conta",
     titulo: "1. Câmera no Modo Inteligente",
     descricao:
       "O usuário enquadra a conta com a câmera. Os indicadores de foco mostram que a IA está analisando a cena.",
   },
   {
-    imagem: "/img/camera-modo-inteligente-quest.svg",
+    imagem: "/img/camera-modo-inteligente-quest.png",
     alt: "Pop-up perguntando se o usuário deseja resolver o cálculo detectado na lousa",
     titulo: "2. Pop-up de detecção",
     descricao:
       "Ao identificar uma equação na lousa ou no papel, o app pergunta se o usuário deseja ver a resolução.",
   },
   {
-    imagem: "/img/camera-modo-inteligente-resolucao.svg",
+    imagem: "/img/camera-modo-inteligente-resolucao.png",
     alt: "Card expandido mostrando o resultado final e o passo a passo da resolução do cálculo",
     titulo: "3. Resolução passo a passo",
     descricao:
